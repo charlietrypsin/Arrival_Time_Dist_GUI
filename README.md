@@ -1,6 +1,8 @@
 # Arrival_Time_Dist_GUI
 A program which produces 2-dimensional and 3-dimensional graphs for arrival time distributions, and allows calibration with incorporation with Amphitrite [1], so produce collision induced unfolding graphs. Takes .txt files and .a files, outputs graphs as .png and .svg (for tidying up). Can also be used to average up to 3 sets of data.
 
+![alt text](https://raw.githubusercontent.com/charlietrypsin/Arrival_Time_Dist_GUI/master/screenshot.png)
+
 libs and imclasses from Amphitrite.
 
 
